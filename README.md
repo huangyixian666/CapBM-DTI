@@ -17,4 +17,4 @@ This is the code for CapBM-DTI.
 
 To run this code:
 
-python CapBM_DTI.py --dti data/benchmark.txt --protein-descripter bert  --drug-descripter MPNN --model-name bert_MPNN_capsule_celegans --batch-size 64 -e 1000 -dp data
+python CapBM_DTI.py --dti data/benchmark.txt --protein-descripter bert  --drug-descripter MPNN --model-name bert_MPNN_capsule --batch-size 64 -e 1000 -dp data
