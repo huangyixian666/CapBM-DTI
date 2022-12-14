@@ -1,6 +1,9 @@
 # CapBM-DTI
 CapBM-DTI: A novel capsule network-based method integrating BERT and MPNN for prediction of drug-target interaction
 
+![image](https://user-images.githubusercontent.com/89676756/207692614-9c8aeb1b-0582-424a-999e-1cddaffb9523.png)
+
+
 This is the code for CapBM-DTI.
 
 
